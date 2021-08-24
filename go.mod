@@ -1,4 +1,4 @@
-module github.com/slynickel/video-stream
+module github.com/slynickel/videostream
 
 go 1.16
 
